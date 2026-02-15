@@ -1,12 +1,12 @@
-# Faysal_SSD1306
+# Faysal_SSD1306 (under upgrading)
 
 A lightweight MicroPython driver for **SSD1306 OLED displays** (128x32 and 128x64, I2C interface).  
 Author: **Faysal Mahmud**  
-GitHub: [Faysal3010](https://github.com/Faysal3010)
+GitHub: [FaysalMahmudSajan](https://github.com/FaysalMahmudSajan/)
 
 ---
 
-## ✨ Features
+##  Features
 - Compatible with **SSD1306 OLED 128x32 and 128x64** modules
 - Supports **I2C communication**
 - Core display functions:
@@ -23,14 +23,14 @@ GitHub: [Faysal3010](https://github.com/Faysal3010)
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 - MicroPython board (ESP8266, ESP32, Raspberry Pi Pico, etc.)
 - SSD1306 OLED display (I2C, address default `0x3C`)
 - `framebuf` module (built-in with MicroPython)
 
 ---
 
-## 🚀 Usage Example
+##  Usage Example
 
 ```python
 from machine import Pin, I2C
