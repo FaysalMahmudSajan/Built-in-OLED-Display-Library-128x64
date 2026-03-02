@@ -18,4 +18,3 @@ oled.invert(False)
 oled.scroll()
 time.sleep(3)
 oled.stop_scroll()
-
